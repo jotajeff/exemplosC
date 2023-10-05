@@ -2,7 +2,7 @@
 
 int main() {
   // Declaração de variáveis
-  char frutas[][20] = {"banana", "maçã", "laranja", "uva", "melancia", "abacaxi"};
+  char frutas[][20] = { "damasco","melão" , "abacate",  "banana", "maçã", "laranja", "uva", "melancia", "abacaxi"};
   int tamanho = sizeof(frutas) / sizeof(frutas[0]);
   int posicao;
 
