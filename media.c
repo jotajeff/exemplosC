@@ -10,6 +10,7 @@ int main() {
   printf("Insira a segunda nota: ");
   scanf("%f", &nota2);
   printf("Insira a terceira nota: ");
+  
   scanf("%f", &nota3);
 
   // Cálculo da média
